@@ -2,5 +2,6 @@
 	"name": "Abobolais Pool",
 	"description": "With Abobolais Pool we will grow and secure Cardano Network Together",
 	"ticker": "ABOBO",
-	"homepage": "https://www.abobolaispool.com","extended":"https://git.io/Jcl1P"
+	"homepage": "https://www.abobolaispool.com","extended":"https://raw.githubusercontent.com/abobolaispool/meta/main/meta.json"
+
 }
